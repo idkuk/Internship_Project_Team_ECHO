@@ -1,0 +1,19 @@
+Boucher, A., et al. (2024). "Defeating Prompt Injections by Design." arXiv preprint. https://arxiv.org/abs/2503.18813 
+
+AIC. (2024). "Prompt Injection 2.0: The AI Hacker’s New Weapon." AI Competence. https://aicompetence.org/prompt-injection-2-0-the-ai-hackers-new-weapon/ 
+
+OpenAI. (2023). "GPT-4 System Card." https://openai.com/research/gpt-4-system-card 
+
+Weidinger, L., et al. (2022). "Taxonomy of Risks Posed by Language Models." arXiv preprint. https://arxiv.org/abs/2202.03436 
+
+Zhang, Z., et al. (2023). "PromptGuard: Block-level Defense Against Prompt Injection Attacks." Proceedings of the 32nd USENIX Security Symposium. 
+
+Microsoft Threat Intelligence. (2023). "Emerging AI Threat Vectors and Prompt Injection." Microsoft Security Blog. https://www.microsoft.com/en-us/security/blog 
+
+Google DeepMind. (2022). "AI Safety and Alignment Research." DeepMind Technical Reports. https://deepmind.com/research/publications 
+
+Li, Y., et al. (2023). "Mitigating Jailbreak and Injection Attacks in Conversational AI." NeurIPS Workshop on AI Safety. 
+
+Madry Lab. (2023). "Adversarial Robustness in Large Language Models." MIT CSAIL. https://madry.mit.edu 
+
+Das, R. & Kumar, P. (2024). "Secure Prompt Engineering in NLP Pipelines." Journal of Cybersecurity & AI, 11(2), pp. 89–105.
