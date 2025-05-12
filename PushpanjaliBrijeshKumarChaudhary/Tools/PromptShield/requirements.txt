@@ -1,0 +1,22 @@
+# PromptShield – Basic dependencies
+
+# Standard library module 're' is built-in, so no need to include it
+# But if you plan to expand the tool later with NLP or Streamlit, add more
+
+# Example: If planning to add GUI in future
+# streamlit==1.33.0
+
+# Current version has no external dependencies
+
+✅ If your current app.py only uses input(), print(), and re (regular expressions), you don’t actually need to install anything — so your requirements.txt can be empty or just have a comment like above.
+
+However, if you plan to expand the tool later, here’s an extended version:
+---------------------------------------------------------------------------------------------------------
+📄 Optional: Future-ready version
+
+# PromptShield – Prompt Injection Detection Tool Dependencies
+
+streamlit>=1.30.0    # For building a future GUI
+nltk                 # For NLP-based detection
+regex                # Advanced pattern matching (if used)
+
