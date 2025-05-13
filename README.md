@@ -53,5 +53,10 @@ PushpanjaliBrijeshKumarChaudhary/
 - [x] Video Demo Recorded  
 - [x] Repository Finalized
 
-
 📌 Thank you for reviewing this project! For queries or feedback, feel free to reach out.
+
+## 📢 Disclaimer
+
+This project, PromptShield, was developed as part of an academic internship under the Digisuraksha Parhari Foundation. It is intended strictly for educational and research purposes.
+
+The developer assumes no responsibility for misuse or misinterpretation of the tool or its results. All views expressed here are personal and do not represent the views of the internship provider or affiliated institutions.
