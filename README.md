@@ -32,18 +32,48 @@ As part of this internship, my key contributions include:
 ## 📁 Directory Overview
 
 PushpanjaliBrijeshKumarChaudhary/
+├── CTF_Tasks/
+│   ├── OverTheWire/
+│   │   ├── ASSIGNMENT 2 GAME WAR.md
+│   │   └── Writeup.md
+│   └── TryHackMe/
+│       ├── Pushpanjali_Chaudhary_TryHackMe_Writeup.md
+│       ├── Senhakumari_TryHackMe_Report.docx
+│       └── Shruti_Jaiswal(Assignment_1).pdf
+│
+├── Projects/
+│   └── AI_PromptInjection_Security/
+│       ├── Code/
+│       │   └── Video_Presentation.mp4
+│       ├── Documentation/
+│       │   ├── Project_Presentation.pdf
+│       │   └── Summary.md
+│       └── Market_Study/
+│           └── Market_Analysis.pdf
+│
+├── Research/
+│   └── Prompt_Injection_Defense/
+│       ├── Report.pdf
+│       └── references.txt
+│
+├── Supporting_Files/
+│   ├── Prompt_Samples.csv
+│   ├── tool_home.png
+│   └── Screenshots/
+│       ├── Flag_Prompt.png
+│       ├── Flag_Prompts.png
+│       ├── Safe_Prompt.png
+│       └── Safe_Prompts.png
+│
 ├── Tools/
 │   └── PromptShield/
-├── Research/
-│   └── Prompt\_Injection\_Defense/
-├── Projects/
-│   └── AI\_PromptInjection\_Security/
-│       ├── Documentation/
-│       ├── Code/
-│       ├── Market\_Study/
-│       └── Video\_Presentation.mp4
-└── README.md
-
+│       ├── app.py
+│       ├── requirements.txt
+│       ├── Setup Instructions
+│       └── README.md
+│
+├── LICENSE
+└── README.md (← About me + contribution summary)
 
 ## ✅ Status
 
